@@ -1,0 +1,1 @@
+./Debug/src_svrReportsMenu.c.o ./Debug/src_svrProductsMenu.c.o ./Debug/src_svrCategoriesMenu.c.o ./Debug/src_svrMain.c.o ./Debug/src_main.c.o   

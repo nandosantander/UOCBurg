@@ -1,0 +1,1 @@
+./Debug/src_categories.c.o ./Debug/src_products.c.o ./Debug/src_operations.c.o ./Debug/src_helpers.c.o ./Debug/src_orders.c.o   

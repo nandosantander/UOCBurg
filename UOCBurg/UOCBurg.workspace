@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeLite_Workspace Name="UOCBurg" Database="" Version="10.0.0">
+  <Project Name="UOCBurgLib" Path="UOCBurgLib/UOCBurgLib.project" Active="No"/>
+  <Project Name="UOCBurgServer" Path="UOCBurgServer/UOCBurgServer.project" Active="No"/>
+  <Project Name="UOCBurgApp" Path="UOCBurgApp/UOCBurgApp.project" Active="Yes"/>
+  <BuildMatrix>
+    <WorkspaceConfiguration Name="Debug" Selected="yes">
+      <Environment/>
+      <Project Name="UOCBurgLib" ConfigName="Debug"/>
+      <Project Name="UOCBurgServer" ConfigName="Debug"/>
+      <Project Name="UOCBurgApp" ConfigName="Debug"/>
+    </WorkspaceConfiguration>
+    <WorkspaceConfiguration Name="Release" Selected="no">
+      <Environment/>
+      <Project Name="UOCBurgLib" ConfigName="Release"/>
+      <Project Name="UOCBurgServer" ConfigName="Release"/>
+      <Project Name="UOCBurgApp" ConfigName="Release"/>
+    </WorkspaceConfiguration>
+  </BuildMatrix>
+</CodeLite_Workspace>
